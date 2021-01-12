@@ -1,0 +1,51 @@
+[
+
+{
+	"Programlama Dili": "JavaScript",
+	"Çıkış Tarihi": "1995",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_js.png",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_javascript.png",
+	"Aciklama": "JavaScript bir tür nesne temelli programlama dilidir. Web geliştiriciliğini kolay ve daha çekici hale getirmek için tasarlanmıştır. Çoğu durumda JavaScript tepki verebilen, interaktif öğeleri web sitelerine uygulamak için kullanılır. Bu şekilde kullanıcı deneyimini arttırmayı umar. Menüler, animasyonlar, video çalıcılar, interaktif haritalar ve hatta basit browser içi oyunlar bile JavaScript ile kolaylıkla ve hızlıca oluşturulabilir."
+},
+
+{
+	"Programlama Dili": "C#",
+	"Çıkış Tarihi": "2002",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_cSharp.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_cSharp.png",
+	"Aciklama": "C#, Microsoft tarafından geliştirilmekte ve desteklenmekte olan,  C++’ın gücünü ve Visual Basic’in kullanıcı dostu yapısını birleştiren bir dil olarak ortaya çıkmıştır. .Net Framework ile derlenen kodlar '.exe' uzantılı çalıştırılabilir uygulamalara dönüşürler. Nesne tabanlı programlama dillerinden biri olan C#’a Java, C++ veya C diliyle daha önceden uygulama geliştirmiş bir programcı kısa sürede adapte olabilir, yazım kurallarına (syntax) alışabilir"
+},
+
+{
+	"Programlama Dili": "Python",
+	"Çıkış Tarihi": "1994",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_python.png",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_python.png",
+	"Aciklama": "Python esas olarak nesne tabanlı programlamayı, belli bir oranda da fonksiyonel programlamayı destekleyen genel amaçlı bir programlama dilidir. 1994 yılında piyasaya sürülen Python görece kolaylığı, geniş standart kütüphanesi ve dinamik yapısı nedeniyle günümüzde oldukça popülerleşmiş ve yaygın bir kullanıcı kitlesine ulaşmıştır."
+},
+
+{
+	"Programlama Dili": "Java",
+	"Çıkış Tarihi": "1996",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_java.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_java.png",
+	"Aciklama": "Java platformdan bağımsız çalışan, yüksek hızlı, basit tasarımlı, güvenli, nesne tabanlı ve dinamik bir programlama dilidir. Java; Windows sürümleri, Mac OS, HP-Unix, Sun Solaris, Redhat Linux, Ubuntu, CentOS gibi platformlarda çalışabilir. Java kullanım alanları oldukça geniştir. Herhangi bir platformda yazılan bir yazılımı diğer sanal platformda çalıştırmak için Java programlama dili kullanılır. Web tarayıcısı ve erişilebilir web hizmetleriyle çalışacak programlar oluşturmak için Java kullanılır. Online forumlar, anketler, HTML formları ve mağazaları işleme ve daha fazla sunucu tarafı uygulamaları geliştirmek için Java kullanılır. Üst düzey özelleştirilmiş uygulama ve hizmetler oluşturmak adına Java dili kullanılarak uygulamalar ve hizmetleri birleştirmek için Java kullanılır."
+},
+
+{
+	"Programlama Dili": "Php",
+	"Çıkış Tarihi": "1995",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_php.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_php.png",
+	"Aciklama": "PHP, Back-end yani bir arka plandır. Sitenin görselliği PHP için önemli değildir. PHP’nin asıl görevi arka plandaki işlemleri ve olayları kontrol ederek sonuçlar üretmektir diyebiliriz. PHP ile blog, web sitesi, arama motoru, sosyal medya platformu ve e-ticaret sitesi gibi tasarımlar yapabilirsiniz. Örneğin; PHP kullanılarak Google, Facebook, WordPress, Bloglar, Joomla Blog, Instagram ve Twitter gibi platformlar yapılmıştır."
+},
+
+{
+	"Programlama Dili": "SQL",
+	"Çıkış Tarihi": "1979",
+	"KapakFotoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/banner_sql.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/Emirboztepee/ProgramlamaDilleri/main/logo_sql.png",
+	"Aciklama": "SQL, veri tabanı sorgulama dilidir. Şöyle de diyebiliriz: SQL verileri modellemek ve yönetmek için kullanılan bir dildir. Structured Query Language (Yapılandırılmış Sorgu Dili) ifadesinin kısaltılmış şeklidir. SQL dili; MS SQL Server, IBM DB2, Oracle, MySQL ve Microsoft Access gibi tüm modern veritabanı sistemleri için temel bir yapıdır. SQL, tanımlı anahtar kelimelerden oluşturulan SQL cümleleri ile veri tabanındaki veri kümelerini modelleyebilir."
+}
+
+]
