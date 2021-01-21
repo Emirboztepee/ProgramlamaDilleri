@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HR190012_EmirDursunBoztepeFinal</string>
+    <string name="detay_E3">DETAY</string>
+    <string name="baslik_E3">BAŞLIK</string>
+    <string name="card_detay">1995</string>
+    <string name="card_baslik">Javascript</string>
+    <string name="progress_loading">Lütfen bekleyiniz...</string>
+    <string name="connection_alert_title">Bağlantı Problemi</string>
+    <string name="connection_alert_message">İnternet Bağlantınız Bulunmuyor.</string>
+    <string name="connection_alert_settings">Ayarları Aç</string>
+    <string name="connection_alert_exit">Çıkış Yap</string>
+    <string name="exit_alert_message">Çıkış Yapmak İstiyor Musunuz?</string>
+    <string name="exit_alert_yes">Evet</string>
+    <string name="exit_alert_no">Hayır</string>
+    <string name="retrofit">RETROFIT</string>
+    <string name="on_next">onNext : </string>
+    <string name="on_Error">onError : </string>
+    <string name="on_complete">onComplete : </string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_margin_card"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/imgDilLogo"
+                android:layout_width="@dimen/ImageView_width_heigth_card"
+                android:layout_height="@dimen/ImageView_width_heigth_card"
+                android:layout_marginStart="@dimen/ImageView_margin_card"
+                android:layout_marginTop="@dimen/card_padding"
+                android:layout_marginBottom="@dimen/ImageView_margin_card"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+            <TextView
+                android:id="@+id/txtDilAdi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/TextView_margin_card"
+                android:textColor="@color/purple_500"
+                android:textSize="@dimen/TextView_textBaslik_card"
+                app:layout_constraintStart_toEndOf="@+id/imgDilLogo"
+                app:layout_constraintTop_toTopOf="@+id/imgDilLogo"
+                tools:text="@string/card_baslik" />
+            <TextView
+                android:id="@+id/txtTarih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/TextView_margin_card"
+                app:layout_constraintStart_toStartOf="@+id/txtDilAdi"
+                app:layout_constraintTop_toBottomOf="@+id/txtDilAdi"
+                tools:text="@string/card_detay" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
