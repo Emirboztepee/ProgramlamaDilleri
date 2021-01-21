@@ -4,7 +4,7 @@
 <img src="https://github.com/Emirboztepee/ProgramlamaDilleri/blob/main/images/ic_launcher.png"/>
 </p>
 
-<h2 align="center">**The goal of the project**</h2>
+<h2 align="center">The goal of the project</h2>
 
 'My project gives a short explanation about programming languages ​​and provides information to the user about these languages.'
 
@@ -30,7 +30,7 @@
 <img src="https://github.com/Emirboztepee/ProgramlamaDilleri/blob/main/Screens/E3_DetayEkrani.png"
      img width=200px/>
 </p><br>
-<p align="center">**Architectural Package Structure</p><br>
+<h2 align="center">Architectural Package Structure</h2><br>
 <p align="center">
 <img src="https://github.com/Emirboztepee/ProgramlamaDilleri/blob/main/images/paketYapisi.png"
      img width=200px/>
